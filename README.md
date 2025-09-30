@@ -15,3 +15,5 @@ Contoh Button
 ![Screenshot hello_world](images/04.png)
 Langkah 2: Floating Action Button (FAB)
 ![Screenshot hello_world](images/05.png)
+Langkah 3: Scaffold Widget
+![Screenshot hello_world](images/06.png)
