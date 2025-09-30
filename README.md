@@ -13,3 +13,5 @@ Logo polinema
 Praktikum 5 : Menerapkan Widget Material Design dan iOS Cupertino
 Contoh Button
 ![Screenshot hello_world](images/04.png)
+Langkah 2: Floating Action Button (FAB)
+![Screenshot hello_world](images/05.png)

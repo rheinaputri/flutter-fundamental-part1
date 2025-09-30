@@ -1,10 +1,12 @@
 import 'package:flutter/material.dart';
 import 'basic_widgnets/loading_cupertino.dart';
-import 'package:hello_world/basic_widgnets/image_widget.dart';
+import 'basic_widgnets/image_widget.dart';
+import 'basic_widgnets/fab_widget.dart';
+
 import 'package:hello_world/basic_widgnets/text_widgnet.dart';
 
 void main() {
-  runApp(const LoadingCupertino());
+  runApp(const FabWidget());
 }
 
 class MyApp extends StatelessWidget {
